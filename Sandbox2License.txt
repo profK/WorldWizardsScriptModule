@@ -1,0 +1,4 @@
+The copy of Sandbox2 co-located with this file is licensed for use ONLY
+with the WorldWizards codebase.  If you wish to use it for another project
+then you can buy a license to both it and the legacy Sandbox from the Unity
+Asset Store.
